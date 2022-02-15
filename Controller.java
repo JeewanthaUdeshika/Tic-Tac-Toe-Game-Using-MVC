@@ -4,7 +4,7 @@ Lab06 - Event Handling and MVC Approch
 
 This is Controller class of Tic Tac Toe game
 
-Author : Ariyawansha P.H.J.U. (E/18/028)
+Author : Jeewantha Udeshika Ariyawansha (E/18/028)
 */
 
 
