@@ -1,10 +1,10 @@
 /*
-CO225 - Software Construction
-Lab06 - Event Handling and MVC Approch
+Event Handling and MVC Approch
 
 This is Model class of Tic Tac Toe game.
 
-Author : Ariyawansha P.H.J.U. (E/18/028)
+Author  : Jeewantha Udeshika Ariyawansha
+Date    : 19-02-2022
 */
 
 
